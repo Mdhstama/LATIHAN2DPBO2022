@@ -4,6 +4,7 @@
 
 KETERANGAN DESAIN
 
+3 file utama (Product , Hardware, Memory) merupakan implementasi dari inheritance
 - Product.flie merupakan parent utama class
 - Hardware.file merupakan child dari class Product
 - Memory.file merupakan child dari class Hardware 
